@@ -1,4 +1,4 @@
-This repo contains the songs I've written to document my journey through programming.  
+This repo contains the songs and poems I've written to document my journey through programming.  
 
 Instructions:
 You will need the free music writing/playing software MuseScore (https://musescore.org/)
